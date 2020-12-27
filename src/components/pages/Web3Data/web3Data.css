@@ -1,0 +1,30 @@
+.tab {
+	width: 100%;
+	text-align: center;
+	margin-top: 25px;
+  	margin-bottom: 25px;
+  	border-style: inset;
+  	font-size: 18px;
+  	line-height: 1.1;
+  	font-weight: 600;
+}
+
+.trole {
+	color: #FFFFFF;
+	background-color: #193F5F;
+}
+
+.headTag {
+	text-align: center;
+	color: #FFFFFF;
+	background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKwyWAguQ3OgWgDlJWnDCRvKiqc9s6YwxMMg&usqp=CAU') center center/cover no-repeat; 
+}
+
+.load {
+	text-align: center;
+}
+
+.text-center {
+	text-align: center;
+  	border-style: inset;
+}
