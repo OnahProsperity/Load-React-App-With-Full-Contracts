@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Load-React-App-With-Full-Contracts/static/css/main.239ffb92.chunk.css",
-    "main.js": "/Load-React-App-With-Full-Contracts/static/js/main.db476542.chunk.js",
-    "main.js.map": "/Load-React-App-With-Full-Contracts/static/js/main.db476542.chunk.js.map",
+    "main.css": "/Load-React-App-With-Full-Contracts/static/css/main.9fd25a28.chunk.css",
+    "main.js": "/Load-React-App-With-Full-Contracts/static/js/main.1d72652c.chunk.js",
+    "main.js.map": "/Load-React-App-With-Full-Contracts/static/js/main.1d72652c.chunk.js.map",
     "runtime-main.js": "/Load-React-App-With-Full-Contracts/static/js/runtime-main.1f5041db.js",
     "runtime-main.js.map": "/Load-React-App-With-Full-Contracts/static/js/runtime-main.1f5041db.js.map",
     "static/css/2.2f2c82fc.chunk.css": "/Load-React-App-With-Full-Contracts/static/css/2.2f2c82fc.chunk.css",
-    "static/js/2.6b8acc84.chunk.js": "/Load-React-App-With-Full-Contracts/static/js/2.6b8acc84.chunk.js",
-    "static/js/2.6b8acc84.chunk.js.map": "/Load-React-App-With-Full-Contracts/static/js/2.6b8acc84.chunk.js.map",
+    "static/js/2.51559287.chunk.js": "/Load-React-App-With-Full-Contracts/static/js/2.51559287.chunk.js",
+    "static/js/2.51559287.chunk.js.map": "/Load-React-App-With-Full-Contracts/static/js/2.51559287.chunk.js.map",
     "index.html": "/Load-React-App-With-Full-Contracts/index.html",
     "static/css/2.2f2c82fc.chunk.css.map": "/Load-React-App-With-Full-Contracts/static/css/2.2f2c82fc.chunk.css.map",
-    "static/css/main.239ffb92.chunk.css.map": "/Load-React-App-With-Full-Contracts/static/css/main.239ffb92.chunk.css.map",
-    "static/js/2.6b8acc84.chunk.js.LICENSE.txt": "/Load-React-App-With-Full-Contracts/static/js/2.6b8acc84.chunk.js.LICENSE.txt"
+    "static/css/main.9fd25a28.chunk.css.map": "/Load-React-App-With-Full-Contracts/static/css/main.9fd25a28.chunk.css.map",
+    "static/js/2.51559287.chunk.js.LICENSE.txt": "/Load-React-App-With-Full-Contracts/static/js/2.51559287.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1f5041db.js",
     "static/css/2.2f2c82fc.chunk.css",
-    "static/js/2.6b8acc84.chunk.js",
-    "static/css/main.239ffb92.chunk.css",
-    "static/js/main.db476542.chunk.js"
+    "static/js/2.51559287.chunk.js",
+    "static/css/main.9fd25a28.chunk.css",
+    "static/js/main.1d72652c.chunk.js"
   ]
 }
